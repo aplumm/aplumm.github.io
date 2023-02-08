@@ -1,0 +1,302 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://brianforg.github.io/su.html",
+            "path": "index.html",
+            "saved": true,
+            "size": 5561,
+            "children": [
+                {
+                    "url": "https://brianforg.github.io/imgs/bg.jpg",
+                    "path": "img/bg.jpeg",
+                    "saved": true,
+                    "size": 3211
+                },
+                {
+                    "url": "https://brianforg.github.io/imgs/3_02.jpg",
+                    "saved": false
+                },
+                {
+                    "url": "https://brianforg.github.io/imgs/3_03.jpg",
+                    "saved": false
+                },
+                {
+                    "url": "https://brianforg.github.io/imgs/3_04.jpg",
+                    "saved": false
+                },
+                {
+                    "url": "https://brianforg.github.io/imgs/3_05.jpg",
+                    "saved": false
+                },
+                {
+                    "url": "https://brianforg.github.io/imgs/3_06.jpg",
+                    "saved": false
+                },
+                {
+                    "url": "https://brianforg.github.io/imgs/3_07_y.jpg",
+                    "saved": false
+                },
+                {
+                    "url": "https://brianforg.github.io/imgs/1_07.jpg",
+                    "saved": false
+                },
+                {
+                    "url": "https://brianforg.github.io/imgs/2_07.jpg",
+                    "saved": false
+                },
+                {
+                    "url": "https://brianforg.github.io/imgs/grey.png",
+                    "saved": false
+                },
+                {
+                    "url": "https://brianforg.github.io/imgs/purple.png",
+                    "saved": false
+                },
+                {
+                    "url": "https://brianforg.github.io/imgs/blue.png",
+                    "saved": false
+                },
+                {
+                    "url": "https://brianforg.github.io/imgs/3_08.jpg",
+                    "saved": false
+                },
+                {
+                    "url": "https://brianforg.github.io/imgs/3_10_1.png",
+                    "saved": false
+                },
+                {
+                    "url": "https://brianforg.github.io/imgs/fail.jpg",
+                    "path": "img/fail.jpeg",
+                    "saved": true,
+                    "size": 32805
+                },
+                {
+                    "url": "https://brianforg.github.io/fx_files/zepto.min.js",
+                    "path": "js/zepto.min.js",
+                    "saved": true,
+                    "size": 33199
+                },
+                {
+                    "url": "https://brianforg.github.io/fx_files/qrcode.js",
+                    "path": "js/qrcode.js",
+                    "saved": true,
+                    "size": 28090
+                },
+                {
+                    "url": "https://brianforg.github.io/fx_files/weui.css",
+                    "path": "css/weui.css",
+                    "saved": true,
+                    "size": 50483,
+                    "children": [
+                        {
+                            "url": "data-uri",
+                            "path": "data-uri/bin/bin_268fa.bin",
+                            "saved": true,
+                            "size": 4632
+                        },
+                        {
+                            "url": "data-uri",
+                            "path": "data-uri/svg/svg_4660b.svg",
+                            "saved": true,
+                            "size": 1404
+                        },
+                        {
+                            "url": "data-uri",
+                            "path": "data-uri/svg/svg_b8a8c.svg",
+                            "saved": true,
+                            "size": 1604
+                        }
+                    ]
+                },
+                {
+                    "url": "https://brianforg.github.io/fx_files/weuix.css",
+                    "path": "css/weuix.css",
+                    "saved": true,
+                    "size": 117608,
+                    "children": [
+                        {
+                            "url": "data-uri",
+                            "path": "data-uri/bin/bin_31219.bin",
+                            "saved": true,
+                            "size": 55724
+                        },
+                        {
+                            "url": "data-uri",
+                            "path": "data-uri/svg/svg_36d4a.svg",
+                            "saved": true,
+                            "size": 993
+                        },
+                        {
+                            "url": "data-uri",
+                            "path": "data-uri/svg/svg_93e2b.svg",
+                            "saved": true,
+                            "size": 139
+                        },
+                        {
+                            "url": "data-uri",
+                            "path": "data-uri/svg/svg_d52c4.svg",
+                            "saved": true,
+                            "size": 150
+                        },
+                        {
+                            "url": "data-uri",
+                            "path": "data-uri/svg/svg_8d723.svg",
+                            "saved": true,
+                            "size": 153
+                        },
+                        {
+                            "url": "data-uri",
+                            "path": "data-uri/png/png_60ceb.png",
+                            "saved": true,
+                            "size": 315
+                        },
+                        {
+                            "url": "data-uri",
+                            "path": "data-uri/png/png_c448a.png",
+                            "saved": true,
+                            "size": 1203
+                        },
+                        {
+                            "url": "data-uri",
+                            "path": "data-uri/png/png_131bd.png",
+                            "saved": true,
+                            "size": 8737
+                        },
+                        {
+                            "url": "data-uri",
+                            "path": "data-uri/png/png_d6f51.png",
+                            "saved": true,
+                            "size": 1148
+                        },
+                        {
+                            "url": "data-uri",
+                            "path": "data-uri/png/png_b820c.png",
+                            "saved": true,
+                            "size": 1248
+                        },
+                        {
+                            "url": "data-uri",
+                            "path": "data-uri/png/png_312c2.png",
+                            "saved": true,
+                            "size": 709
+                        }
+                    ]
+                },
+                {
+                    "url": "https://brianforg.github.io/fx_files/layui.css",
+                    "path": "css/layui.css",
+                    "saved": true,
+                    "size": 72500,
+                    "children": [
+                        {
+                            "url": "https://brianforg.github.io/font/iconfont.eot?v=250",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://brianforg.github.io/font/iconfont.eot?v=250#iefix",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://brianforg.github.io/font/iconfont.woff2?v=250",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://brianforg.github.io/font/iconfont.woff?v=250",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://brianforg.github.io/font/iconfont.ttf?v=250",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://brianforg.github.io/font/iconfont.svg?v=250#layui-icon",
+                            "saved": false
+                        },
+                        {
+                            "url": "data-uri",
+                            "path": "data-uri/png/png_0cc00.png",
+                            "saved": true,
+                            "size": 82
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "alias": "brianforg-github-io-cbzkbcmo",
+    "info": {
+        "remark": [],
+        "title": "学生进出学校核验",
+        "domain": "brianforg.github.io",
+        "origin": "https://brianforg.github.io",
+        "ip": "185.199.110.153",
+        "main": "index.html",
+        "url": "https://brianforg.github.io/su.html",
+        "totalSize": "422 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://brianforg.github.io/su.html",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://brianforg.github.io/su.html",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "connection": "close",
+                "content-length": "5575",
+                "server": "GitHub.com",
+                "content-type": "text/html; charset=utf-8",
+                "permissions-policy": "interest-cohort=()",
+                "last-modified": "Wed, 25 Jan 2023 06:47:07 GMT",
+                "access-control-allow-origin": "*",
+                "strict-transport-security": "max-age=31556952",
+                "etag": "\"63d0d06b-15c7\"",
+                "expires": "Wed, 08 Feb 2023 08:45:10 GMT",
+                "cache-control": "max-age=600",
+                "x-proxy-cache": "MISS",
+                "x-github-request-id": "5DAA:7095:C69CDD:1061091:63E35EBE",
+                "accept-ranges": "bytes",
+                "date": "Wed, 08 Feb 2023 08:35:10 GMT",
+                "via": "1.1 varnish",
+                "age": "0",
+                "x-served-by": "cache-hnd18735-HND",
+                "x-cache": "MISS",
+                "x-cache-hits": "0",
+                "x-timer": "S1675845310.342672,VS0,VE178",
+                "vary": "Accept-Encoding",
+                "x-fastly-request-id": "f92c27b67a896b8c2ed3a021bb717eb297bb2740"
+            }
+        },
+        "time": {
+            "start": "2023-02-08T08:35:10.305Z",
+            "end": "2023-02-08T08:35:12.413Z"
+        }
+    },
+    "options": {
+        "url": "https://brianforg.github.io/su.html",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [
+            "html",
+            "css",
+            "js",
+            "saveOriginal"
+        ],
+        "filenameGenerator": "byType"
+    }
+}
